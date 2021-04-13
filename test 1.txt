@@ -1,3 +1,6 @@
 
 morning coffee
 evening coffee
+
+pizza 
+toast
